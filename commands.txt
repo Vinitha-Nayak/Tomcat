@@ -1,0 +1,10 @@
+#Install Tomcat
+- wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.84/bin/apache-tomcat-9.0.84.tar.gz
+
+#Untar file
+tar -zvxf apache-tomcat-9.0.84.tar.gz
+
+Install Java
+- yum install java-11 -y
+
+#find context.xml
