@@ -17,3 +17,5 @@ Install Java
 /home/ec2-user/apache-tomcat-9.0.84/webapps/host-manager/META-INF/context.xml
 /home/ec2-user/apache-tomcat-9.0.84/webapps/manager/META-INF/context.xml
 
+
+
